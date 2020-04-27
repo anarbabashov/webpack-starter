@@ -9,7 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC", 
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anarbabashov/webpack-starter"
+  },  
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
